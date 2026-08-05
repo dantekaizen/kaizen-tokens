@@ -1,0 +1,10 @@
+{
+  "tokenSetOrder": [
+    "global",
+    "Primitives/Value",
+    "Color/Light",
+    "Color/Dark",
+    "Typography/Value",
+    "Space & Size/Value"
+  ]
+}

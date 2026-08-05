@@ -1,0 +1,361 @@
+{
+  "family": {
+    "display": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "FONT_FAMILY"
+        ],
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "var(--font-family-display)"
+        }
+      },
+      "$type": "text",
+      "$value": "Bricolage Grotesque"
+    },
+    "sans": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "FONT_FAMILY"
+        ],
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "var(--font-family-sans)"
+        }
+      },
+      "$type": "text",
+      "$value": "Plus Jakarta Sans"
+    },
+    "mono": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "FONT_FAMILY"
+        ],
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "var(--font-family-mono)"
+        }
+      },
+      "$type": "text",
+      "$value": "IBM Plex Mono"
+    }
+  },
+  "weight": {
+    "regular": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "FONT_STYLE"
+        ],
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "var(--font-weight-regular)"
+        }
+      },
+      "$type": "text",
+      "$value": "Regular"
+    },
+    "medium": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "FONT_STYLE"
+        ],
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "var(--font-weight-medium)"
+        }
+      },
+      "$type": "text",
+      "$value": "Medium"
+    },
+    "semibold": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "FONT_STYLE"
+        ],
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "var(--font-weight-semibold)"
+        }
+      },
+      "$type": "text",
+      "$value": "SemiBold"
+    },
+    "bold": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "FONT_STYLE"
+        ],
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "var(--font-weight-bold)"
+        }
+      },
+      "$type": "text",
+      "$value": "Bold"
+    }
+  },
+  "font-size": {
+    "xs": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "FONT_SIZE"
+        ],
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "var(--font-size-xs)"
+        }
+      },
+      "$type": "dimension",
+      "$value": "0.75rem"
+    },
+    "sm": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "FONT_SIZE"
+        ],
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "var(--font-size-sm)"
+        }
+      },
+      "$type": "dimension",
+      "$value": "0.875rem"
+    },
+    "md": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "FONT_SIZE"
+        ],
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "var(--font-size-md)"
+        }
+      },
+      "$type": "dimension",
+      "$value": "1rem"
+    },
+    "lg": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "FONT_SIZE"
+        ],
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "var(--font-size-lg)"
+        }
+      },
+      "$type": "dimension",
+      "$value": "1.125rem"
+    },
+    "xl": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "FONT_SIZE"
+        ],
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "var(--font-size-xl)"
+        }
+      },
+      "$type": "dimension",
+      "$value": "1.25rem"
+    },
+    "2xl": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "FONT_SIZE"
+        ],
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "var(--font-size-2xl)"
+        }
+      },
+      "$type": "dimension",
+      "$value": "1.5rem"
+    },
+    "3xl": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "FONT_SIZE"
+        ],
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "var(--font-size-3xl)"
+        }
+      },
+      "$type": "dimension",
+      "$value": "1.875rem"
+    },
+    "4xl": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "FONT_SIZE"
+        ],
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "var(--font-size-4xl)"
+        }
+      },
+      "$type": "dimension",
+      "$value": "2.25rem"
+    },
+    "5xl": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "FONT_SIZE"
+        ],
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "var(--font-size-5xl)"
+        }
+      },
+      "$type": "dimension",
+      "$value": "3rem"
+    },
+    "6xl": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "FONT_SIZE"
+        ],
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "var(--font-size-6xl)"
+        }
+      },
+      "$type": "dimension",
+      "$value": "4rem"
+    }
+  },
+  "line-height": {
+    "xs": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "LINE_HEIGHT"
+        ],
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "var(--line-height-xs)"
+        }
+      },
+      "$type": "dimension",
+      "$value": "1rem"
+    },
+    "sm": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "LINE_HEIGHT"
+        ],
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "var(--line-height-sm)"
+        }
+      },
+      "$type": "dimension",
+      "$value": "1.25rem"
+    },
+    "md": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "LINE_HEIGHT"
+        ],
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "var(--line-height-md)"
+        }
+      },
+      "$type": "dimension",
+      "$value": "1.5rem"
+    },
+    "lg": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "LINE_HEIGHT"
+        ],
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "var(--line-height-lg)"
+        }
+      },
+      "$type": "dimension",
+      "$value": "1.75rem"
+    },
+    "xl": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "LINE_HEIGHT"
+        ],
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "var(--line-height-xl)"
+        }
+      },
+      "$type": "dimension",
+      "$value": "1.75rem"
+    },
+    "2xl": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "LINE_HEIGHT"
+        ],
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "var(--line-height-2xl)"
+        }
+      },
+      "$type": "dimension",
+      "$value": "2rem"
+    },
+    "3xl": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "LINE_HEIGHT"
+        ],
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "var(--line-height-3xl)"
+        }
+      },
+      "$type": "dimension",
+      "$value": "2.375rem"
+    },
+    "4xl": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "LINE_HEIGHT"
+        ],
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "var(--line-height-4xl)"
+        }
+      },
+      "$type": "dimension",
+      "$value": "2.75rem"
+    },
+    "5xl": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "LINE_HEIGHT"
+        ],
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "var(--line-height-5xl)"
+        }
+      },
+      "$type": "dimension",
+      "$value": "3.5rem"
+    },
+    "6xl": {
+      "$extensions": {
+        "com.figma.scopes": [
+          "LINE_HEIGHT"
+        ],
+        "com.figma.hiddenFromPublishing": false,
+        "com.figma.codeSyntax": {
+          "Web": "var(--line-height-6xl)"
+        }
+      },
+      "$type": "dimension",
+      "$value": "4.5rem"
+    }
+  }
+}
